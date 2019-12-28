@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//WebContent/User/add_process.jsp=UTF-8
+encoding//WebContent/template_header.jsp=UTF-8
+encoding//src/com/hu/gov/commands/CommandBase.java=UTF-8
+encoding//src/com/hu/gov/commands/OpenApplication.java=UTF-8
+encoding//src/com/hu/gov/control/HttpProxy.java=UTF-8
